@@ -12,6 +12,7 @@ public class NameGenerator {
     private final ArrayList<String> lastName = new ArrayList<>(100);
 
     public NameGenerator()  {
+
         setNameLists();
     }
     private void setNameLists() {
